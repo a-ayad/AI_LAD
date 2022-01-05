@@ -1,0 +1,3 @@
+l_hb,l_potassium,l_sodium,l_chloride,l_glucose,l_bun,l_creatinine,l_magnesium,l_calcium,l_co2,l_total_bili,l_albumin,l_wbccount,l_platelets_count,l_ptt,l_pt,l_inr,l_arterial_ph,l_pao2,l_paco2,l_arterial_be,l_hco3,l_lactate,l_pao2_fio2,l_spo2
+12,3.5,136,98,70,8,0.7,1.5,9,23,0.3,3.5,4,150,60,11,0.8,7.38,80,35,-2,22,0.67,300,95
+17,5,145,106,100,20,1.3,2.4,10.5,28,1.2,5.5,11,350,80,12.5,1.1,7.44,100,45,2,26,1.8,600,100

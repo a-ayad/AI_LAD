@@ -1,0 +1,35 @@
+RUN:
+
+1. Demographics
+2. GetLabs
+3. Icustay_detail
+4. getWeights
+5. overalltable_Lab
+5. sampling_lab
+
+6. sampled_reduced_v1 (icustay_id without readmition)
+6.1 final_output_v1
+
+or 
+
+7. sampling_reduced_v2 (only first ICU_STAYID)
+7.1 final_output_v2
+
+--------------------------------------------
+
+WITHOUT SAMPLING
+
+
+
+1. Demographics
+2. GetLabs
+3. Icustay_detail
+4. getWeights
+5. overalltable_Lab
+6. withoutsampl1; (icustay_id without readmition)
+6.1 final_withoutsampl1
+
+OR  
+
+7. withoutsampl2; (only first ICU_STAYID)
+7.final_withoutsampl2
