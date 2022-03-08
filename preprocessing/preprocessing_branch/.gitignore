@@ -1,6 +1,0 @@
-*/data_out/
-*.pyc
-*.nbi
-*.nbc
-.ipynb_checkpoints
-*.csv
